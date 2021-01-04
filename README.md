@@ -1,3 +1,6 @@
+Currently breaking on M1 Apple Silicon
+Source: https://stackoverflow.com/questions/65399729/invalid-formula-usr-local-homebrew-library-taps-facebook-homebrew-fb-buck-rb
+
 Facebook Homebrew Tap
 =====================
 
